@@ -7,6 +7,10 @@
         {
             "name": "PrestaShop SA",
             "email": "contact@prestashop.com"
+        },
+        {
+            "name": "Josh",
+            "email": "joshuat@vital-parts.co.uk"
         }
     ],
     "require": {
